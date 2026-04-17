@@ -1,3 +1,5 @@
+🧠 ML Basics — Rajasri Kondaveeti
+
 🚀 Machine Learning From Scratch – Complete Roadmap
 
 This repository documents my end-to-end journey from Python fundamentals → Machine Learning → Time Series Analysis.
@@ -119,8 +121,8 @@ Rajasri_Kondaveeti_ML_Basics/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Rajasri_Kondaveeti_ML_Basics.git
-cd Rajasri_Kondaveeti_ML_Basics
+git clone https://github.com/Rajasrikondaveeti/ml-from-scratch-roadmap.git
+cd ml-from-scratch-roadmap
 ```
 
 ### 2. Create a virtual environment
@@ -154,9 +156,6 @@ librosa
 jupyter
 scipy
 ```
-
-> Save this as `requirements.txt` in the root of your repository.
-
 ---
 
 ## 🌟 Highlights
@@ -200,9 +199,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👤 Author
 
 **Rajasri Kondaveeti**
-- 📧 [your-email@example.com](mailto:your-email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter / X](https://twitter.com/your-handle)
+- 📧 [Email](mailto:rajasribhaskar7@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajasri-kondaveeti/)
 
 ---
 
